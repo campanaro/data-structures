@@ -50,6 +50,8 @@ class LinkedList {
     this.size++
     return this.head
   }
+
+  
 }
 
 let list = new LinkedList()
